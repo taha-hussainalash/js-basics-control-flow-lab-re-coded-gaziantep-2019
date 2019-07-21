@@ -23,7 +23,7 @@ function switchOnCharmFromTip(tip){
     case "generous": return "That is great"; break;
     case "not as generous": return "uhhh"; break;
     
-     default: return "Bye.";
+     default: return "no thing";
 
  }
 }
